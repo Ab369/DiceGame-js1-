@@ -18,7 +18,7 @@ h3{
     color:red;
 }
 .container{
-    min-width:720px;
+    /* min-width:720px; */
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -27,9 +27,10 @@ h3{
 }
 
 .dice{
+    min-width:380px;
     color:green;
     font-size:2rem;
-    width:80%;
+    width:70%;
     margin-top:3em;
     display:flex;
     justify-content:space-around;
@@ -43,4 +44,27 @@ h3{
     color:white;
     font-family: 'Press Start 2P', cursive;
     margin:0.4em 0;
+}
+
+@media (max-width:880px){
+    img{
+        width:50%;
+        height:50%;
+    }
+
+    h1{
+        font-size:3rem;
+    }
+
+    h3{
+        font-size:1rem;
+    }
+
+    .btn{
+        font-size:2rem;
+    } 
+
+    .dice{
+        font-size:1.5rem;
+
 }
