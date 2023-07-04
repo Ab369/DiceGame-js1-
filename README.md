@@ -48,7 +48,7 @@ This project taught me a number of things -
 - using element.textContent to change text of html element
 - We can also use element.innerHTML but  it's important to be cautious when using innerHTML as it can introduce security risks if the content is not properly sanitized.
 
-- Adding Audio using HTML **new Audio() **constructor and **audio.play();**
+- Adding Audio using HTML **new Audio()** constructor and **audio.play();**
 *code: var audio1=new Audio('p1.mp3');*
 *audio1.play();*
 
