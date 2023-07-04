@@ -59,8 +59,8 @@ I would Continue to learn frontend web developement and HTML,CSS,JS. Further I w
 
 ## Author
 
-- Linkedin: URL[www.linkedin.com/in/9abhinav](www.linkedin.com/in/9abhinav)
-- Twitter - [twitter.com/Abhinav43358626](twitter.com/Abhinav43358626)
+- Linkedin- URL[https://www.linkedin.com/in/9abhinav/](https://www.linkedin.com/in/9abhinav/)
+- Twitter - [https://twitter.com/Abhinav43358626](https://twitter.com/Abhinav43358626)
 
 ## Acknowledgments
 - The Complete 2023 Web Development Bootcamp by Angela Yu
