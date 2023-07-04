@@ -18,7 +18,7 @@ This is a basic dice game project.
 - This project is made as a part of learning frontend web develpoement.
 
 ### Links
-- Live Site URL: [Add live site URL here](https://dice-game-js1.vercel.app/)
+- Live Site URL: [https://dice-game-js1.vercel.app/](https://dice-game-js1.vercel.app/)
 
 ## My process
 - Firstly I made the html structure which is quite simple.
